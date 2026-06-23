@@ -8,6 +8,7 @@ A collection of text-based recipes.
 
 - Spaghetti Carbonara
 - Garden Salad
+- Chocolate Cake
 
 
 ## How to Contribute
